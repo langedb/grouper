@@ -4,6 +4,7 @@
 **/*.iml
 /**/bin/*
 **/*.log
+**/nb-configuration.xml
 
 grouper/logs/
 grouper/build.properties
